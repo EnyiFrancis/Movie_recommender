@@ -7,7 +7,7 @@ contains various implementations for recommending movies
 
 import pandas as pd
 import numpy as np
-from utils import nmf_model, neighbor_model, movies, ratings, movie_to_id
+from utils import nmf_model, neighbor_model, movies, ratings, movie_to_id, sklearn
 
 
 
