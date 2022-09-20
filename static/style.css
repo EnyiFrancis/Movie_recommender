@@ -26,3 +26,9 @@ body {
 #form form {
     width: 100%;
 }
+
+
+img {
+  max-width:50%;
+  float:right
+}
