@@ -4,5 +4,5 @@ thefuzz==0.19.0
 Jinja2
 numpy==1.23.3
 gunicorn
-scikit_learn==1.1.2
+scikit-learn==1.1.2
 
