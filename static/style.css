@@ -4,12 +4,12 @@ h1 {
 }
 
 h2 {
-    color: blue;
+    color: white;
     /* font-size: 4em; */
 }
 
 body {
-    background-color: red;
+    background-color: darkgreen;
 }
 
 #container {
